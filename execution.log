@@ -1,10 +1,10 @@
 多账号执行间隔：5.0
-grant_app_token: {"token_info": {"app_token": "ZQVBQFJyQktGHlp6QkpbRl5LRl5qek4uXAQABAAAAAPgEl6zPGSqYGwYo7pqcJ792H-irt3LeGt4hg0OGL7WwQbyj5w10drF0Ak7Mgzf_3N074gS4e3W7ywKK6p81383fh-j_axRMRLYP0Xix1U_J-98SYQ3DVggjyyH6XihOVYZLGqXYLq4p7Mh57W7mvQjHqfWZd9NOKLqP_hpp6mG5n5QNBUkLsnNRl0zzEUbVTQ", "user_id": "1175943849", "app_ttl": 2592000}, "result": "ok", "domains": [{"cnames": ["api-user-cn3.zepp.com"], "host": "api-user.huami.com"}, {"cnames": ["api-mifit-cn3.zepp.com"], "host": "api-mifit.huami.com"}, {"cnames": ["app-analytics-cn3.zepp.com"], "host": "app-analytics.huami.com"}]}
-[2026-08-04 11:35:53]
+grant_app_token: {"token_info": {"app_token": "ZQVBQFJyQktGHlp6QkpbRl5LRl5qek4uXAQABAAAAABxiHvsUeFRdxqIPN_kWvevKUpEOaX8lxNnlIbMFFYxTndpSA0IuSEITNz66RhVVgpLdZkst6oyW5kWMitaI8DCNDD9eih37OZ1h1A3TqvyASRRfwqsRvBKkBv0AS7s7dm-47qPb3ysDTGiEhYA30ArkAB2EuVzDEJgxpwXpopMpOciW8tt87aWVous4IXbpHA", "user_id": "1175943849", "app_ttl": 2592000}, "result": "ok", "domains": [{"cnames": ["api-user-cn3.zepp.com"], "host": "api-user.huami.com"}, {"cnames": ["api-mifit-cn3.zepp.com"], "host": "api-mifit.huami.com"}, {"cnames": ["app-analytics-cn3.zepp.com"], "host": "app-analytics.huami.com"}]}
+[2026-08-04 13:31:07]
 [1/1]账号：120****.com
 刷新app_token
-已设置为随机步数范围(10000~12065) 随机值:11805
-修改步数（11805）[success]
+已设置为随机步数范围(10137~14079) 随机值:12961
+修改步数（12961）[success]
 
 
 执行账号总数1，成功：1，失败：0
